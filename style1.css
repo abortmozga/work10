@@ -1,0 +1,49 @@
+A {
+    color:gray; /* Цвет ссылок */
+   }
+   A:visited {
+    color: gray; /* Цвет посещенных ссылок */
+   }
+   A.dot {
+    border-bottom: 1px dashed #000080; /* Добавляем свою линию */ 
+   }
+.container{
+    width:800px;
+}
+.one{
+    float:left;
+    width:400px;
+    margin-left: -290px;
+    margin-right: auto;
+}
+.user{
+    float:right;
+    width:400px;
+    height: 420px;
+    margin-left: auto;
+    margin-right: 400px;
+    margin-top: -400px;
+    background-color: chartreuse;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+.oner{
+    border-bottom-left-radius: 40px 60px;
+    border-bottom-right-radius: 40px 60px;
+    border-top-right-radius: 40px 60px;
+    border-top-left-radius: 40px 60px;
+    background-color: chartreuse;
+    border-color: chartreuse;
+    margin-left: 130px;
+    margin-right: auto;
+}
+.onet{
+    width: 80px;
+    height: 20px;
+    border-bottom-left-radius: 40px 60px;
+    border-bottom-right-radius: 40px 60px;
+    border-top-right-radius: 40px 60px;
+    border-top-left-radius: 40px 60px;
+    margin-right: auto;
+    margin-left: 150px;
+}
